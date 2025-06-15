@@ -15,7 +15,7 @@ A curated list of personal, mini, and full-stack projects I've built.
 
 - **Fake-Joke-Generator**
   
-#  HTML,CSS and JavaScript:
+  HTML,CSS and JavaScript:
   
   GitHub Link: https://github.com/vyakhyarastogi/Joke-Generator-using-JS/tree/master
   
