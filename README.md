@@ -27,7 +27,7 @@ A curated list of personal, mini, and full-stack projects I've built.
  ### Real-time-joke generator using API
 - using JavaScript Promises and Fetch API
 - Github link:
-  https://github.com/vyakhyarastogi/Real-Time-Joke-Generator.git
+ (https://github.com/vyakhyarastogi/Real-Time-Joke-Generator)
 
 - Live Link:
   https://real-time-joke-generator-ydet.vercel.app/
