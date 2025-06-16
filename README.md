@@ -9,7 +9,7 @@ A curated list of personal, mini, and full-stack projects I've built.
   ### Image-Gallery
   - HTML and Pure CSS
   - GitHub link:
-    https://github.com/vyakhyarastogi/Image-Gallery-Project.git
+    [https://github.com/vyakhyarastogi/Real-Time-Joke-Generator]
 
  ### Visual Studio Landing Page
 -  HTML and Vanilla CSS: #StayTuned,will add soon!
@@ -27,6 +27,7 @@ A curated list of personal, mini, and full-stack projects I've built.
  ### Real-time-joke generator using API
 - using JavaScript Promises and Fetch API
 - Github link:
+  https://github.com/vyakhyarastogi/Real-Time-Joke-Generator.git
 
 - Live Link:
   https://real-time-joke-generator-ydet.vercel.app/
