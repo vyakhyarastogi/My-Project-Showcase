@@ -7,8 +7,8 @@ A curated list of personal, mini, and full-stack projects I've built.
 ## Web Development
 
   ### Image-Gallery
-  - HTML and Pure CSS
-  - GitHub link:
+  - #### Tech stack: HTML and Pure CSS
+  - #### GitHub link:
     [https://github.com/vyakhyarastogi/Real-Time-Joke-Generator]
 
  ### Visual Studio Landing Page
@@ -16,20 +16,20 @@ A curated list of personal, mini, and full-stack projects I've built.
 
  ### Fake-Joke-Generator
   
-  - HTML,CSS and JavaScript:
+  - #### Tech Stack:  HTML,CSS and JavaScript:
   
-  - GitHub Link:
+  - #### GitHub Link:
   https://github.com/vyakhyarastogi/Joke-Generator-using-JS/tree/master
   
-  - Live Link:
+  - #### Live Link:
   https://sparkling-centaur-844ab4.netlify.app/
 
  ### Real-time-joke generator using API
-- using JavaScript Promises and Fetch API
-- Github link:
+- #### Tech stack: using JavaScript Promises and Fetch API
+- #### Github link:
  (https://github.com/vyakhyarastogi/Real-Time-Joke-Generator)
 
-- Live Link:
+- #### Live Link:
   https://real-time-joke-generator-ydet.vercel.app/
 
 ### Real-Time-Weather-App
