@@ -32,10 +32,10 @@ A curated list of personal, mini, and full-stack projects I've built.
 - Live Link:
   https://real-time-joke-generator-ydet.vercel.app/
 
-  ### Real-Time-Weather-App
-  - #### Tech stack: HTML,CSS and JS
-  - Github link:
-    https://github.com/vyakhyarastogi/Real-time-Weather-App.git
+### Real-Time-Weather-App
+- #### Tech stack: HTML,CSS and JS
+- Github link:
+  https://github.com/vyakhyarastogi/Real-time-Weather-App.git
  
-  - Live Link:
-    https://real-time-weather-app-fuc6.vercel.app/
+- Live Link:
+  https://real-time-weather-app-fuc6.vercel.app/
