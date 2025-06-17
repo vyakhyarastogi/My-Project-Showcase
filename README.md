@@ -34,8 +34,8 @@ A curated list of personal, mini, and full-stack projects I've built.
 
 ### Real-Time-Weather-App
 - #### Tech stack: HTML,CSS and JS
-- Github link:
-  https://github.com/vyakhyarastogi/Real-time-Weather-App.git
+- #### Github link:
+  https://github.com/vyakhyarastogi/Real-time-Weather-App
  
-- Live Link:
+- #### Live Link:
   https://real-time-weather-app-fuc6.vercel.app/
